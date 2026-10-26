@@ -10,11 +10,7 @@
 
 ---
 
-## 🎬 Live Product Demonstration
-
-![AegisRAG Live Tour](docs/assets/demo_preview.gif)
-
-*Full HD 1280x800 Video Walkthrough available at [`docs/assets/permission_aware_rag_demo.webm`](docs/assets/permission_aware_rag_demo.webm) or [`recordings/permission_aware_rag_demo.webm`](recordings/permission_aware_rag_demo.webm).*
+## 🎬 Live Product 
 
 ---
 
